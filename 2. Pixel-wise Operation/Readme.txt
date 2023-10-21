@@ -29,7 +29,11 @@
 	output: PDF_RGB.txt, equalized_PDF_YUV.txt, trans_func_eq_YUV.txt
 
 6. hist_matching_gray.cpp
-: 
+: performing the histogram matching for a grayscale image
+	input: original image
+	output: histogram matched image
 
 7. hist_matching_color.cpp
-: 
+: performing the histogram matching for a rgb scale image
+	input: original image
+	output: histogram matched image
