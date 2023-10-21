@@ -35,5 +35,5 @@
 
 7. hist_matching_color.cpp
 : performing the histogram matching for a rgb scale image
-	input: original image
+	input: original image 
 	output: histogram matched image
